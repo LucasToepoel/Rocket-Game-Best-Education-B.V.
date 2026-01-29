@@ -8,9 +8,9 @@ Examen Basis Programmeren van Games (K0788)
 - **Status:** Voorbereidingsfase (Opdracht B)
 
 ## Documentatie Links
-- [Logboek & Testverslagen](docs/logboek.md)
-- [Game Design Document (GDD)](docs/GDD.md)
-- [Ontwikkelomgeving](docs/Ontwikkelingsomgeving.md)
+- [Logboek & Testverslagen](logboek.md)
+- [Game Design Document (GDD)](GDD.md)
+- [Ontwikkelomgeving](Ontwikkelingsomgeving.md)
 
 ## Installatie & Run
 1. Download en installeer Godot 4.6.
